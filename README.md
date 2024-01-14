@@ -7,7 +7,7 @@ machine, if one exists. Works by:
 *   Then checking the `R_HOME` environmental variable, if it is set 
 *   Then checking a number of common locations (on Mac, Linux, and Windows)
 
-## Motivation
+## Motivation
 
 `R.exe` is commonly not found on the user's `PATH`, which can can be a pain
 if you need to call R from another program, e.g. from Python. This utility
